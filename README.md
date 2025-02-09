@@ -166,7 +166,7 @@ npm test -- --coverage
 ---
 
 ## 👨‍💻 Author & Contributions
-Made with ❤️ by [Your Name](https://github.com/yourgithub). Contributions welcome! 🚀
+Made with ❤️ by [Azeez ibrahim](https://github.com/kunmi02). Contributions welcome! 🚀
 
 ---
 
